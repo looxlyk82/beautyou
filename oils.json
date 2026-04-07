@@ -3008,25 +3008,11 @@
     "size": "10ml",
     "tagline": "The oil of truth & spiritual awakening (Touch)",
     "colour": "#C8B87A",
-    "props": [
-      "Grounding",
-      "Enlightening",
-      "Protective"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Grounding", "Enlightening", "Protective"],
+    "apps": ["Topical"],
     "affirmation": "I am connected to the divine truth within me.",
-    "pairs": [
-      "lavender",
-      "sandalwood",
-      "myrrh"
-    ],
-    "emotions": [
-      "truth",
-      "awakening",
-      "protection"
-    ],
+    "pairs": ["lavender", "sandalwood", "myrrh"],
+    "emotions": ["truth", "awakening", "protection"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3037,25 +3023,11 @@
     "size": "10ml",
     "tagline": "The oil of communication & calm (Touch)",
     "colour": "#C8A8D8",
-    "props": [
-      "Calming",
-      "Nurturing",
-      "Communicative"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Calming", "Nurturing", "Communicative"],
+    "apps": ["Topical"],
     "affirmation": "I speak my truth with calm clarity and open-hearted grace.",
-    "pairs": [
-      "frankincense",
-      "cedarwood",
-      "bergamot"
-    ],
-    "emotions": [
-      "calm",
-      "communication",
-      "nurturing"
-    ],
+    "pairs": ["frankincense", "cedarwood", "bergamot"],
+    "emotions": ["calm", "communication", "nurturing"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3066,25 +3038,11 @@
     "size": "10ml",
     "tagline": "The oil of unveiling truth (Touch)",
     "colour": "#C4B890",
-    "props": [
-      "Honest",
-      "Clear",
-      "Receptive"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Honest", "Clear", "Receptive"],
+    "apps": ["Topical"],
     "affirmation": "I embrace truth and allow my authentic self to fully shine.",
-    "pairs": [
-      "frankincense",
-      "lavender",
-      "sandalwood"
-    ],
-    "emotions": [
-      "clarity",
-      "openness",
-      "trust"
-    ],
+    "pairs": ["frankincense", "lavender", "sandalwood"],
+    "emotions": ["clarity", "openness", "trust"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3095,25 +3053,11 @@
     "size": "10ml",
     "tagline": "The oil of pain & feeling (Touch)",
     "colour": "#F0C830",
-    "props": [
-      "Healing",
-      "Resilient",
-      "Releasing"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Healing", "Resilient", "Releasing"],
+    "apps": ["Topical"],
     "affirmation": "I heal gracefully and emerge stronger and wiser.",
-    "pairs": [
-      "lavender",
-      "frankincense",
-      "rose"
-    ],
-    "emotions": [
-      "healing",
-      "resilience",
-      "release"
-    ],
+    "pairs": ["lavender", "frankincense", "rose"],
+    "emotions": ["healing", "resilience", "release"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3124,25 +3068,11 @@
     "size": "10ml",
     "tagline": "The oil of mother earth (Touch)",
     "colour": "#A87840",
-    "props": [
-      "Nurturing",
-      "Grounding",
-      "Safe"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Nurturing", "Grounding", "Safe"],
+    "apps": ["Topical"],
     "affirmation": "I am safe, nurtured and deeply rooted in the earth.",
-    "pairs": [
-      "frankincense",
-      "sandalwood",
-      "lavender"
-    ],
-    "emotions": [
-      "safety",
-      "nurturing",
-      "grounding"
-    ],
+    "pairs": ["frankincense", "sandalwood", "lavender"],
+    "emotions": ["safety", "nurturing", "grounding"],
     "safetyNote": "Avoid during pregnancy. Diluted for sensitive skin."
   },
   {
@@ -3153,25 +3083,11 @@
     "size": "10ml",
     "tagline": "The oil of divine love (Touch)",
     "colour": "#F0A0B0",
-    "props": [
-      "Loving",
-      "Worthy",
-      "Open-hearted"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Loving", "Worthy", "Open-hearted"],
+    "apps": ["Topical"],
     "affirmation": "I am worthy of deep love and I open my heart to receive it fully.",
-    "pairs": [
-      "jasmine-touch",
-      "ylang-ylang",
-      "sandalwood"
-    ],
-    "emotions": [
-      "love",
-      "worthiness",
-      "openness"
-    ],
+    "pairs": ["jasmine-touch", "ylang-ylang", "sandalwood"],
+    "emotions": ["love", "worthiness", "openness"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3182,25 +3098,11 @@
     "size": "10ml",
     "tagline": "The oil of a buoyant heart (Touch)",
     "colour": "#80D0A8",
-    "props": [
-      "Invigorating",
-      "Encouraging",
-      "Uplifting"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Invigorating", "Encouraging", "Uplifting"],
+    "apps": ["Topical"],
     "affirmation": "I feel alive, energised and enthusiastic about life.",
-    "pairs": [
-      "wild-orange",
-      "lemon",
-      "eucalyptus"
-    ],
-    "emotions": [
-      "invigoration",
-      "encouragement",
-      "uplift"
-    ],
+    "pairs": ["wild-orange", "lemon", "eucalyptus"],
+    "emotions": ["invigoration", "encouragement", "uplift"],
     "safetyNote": "Diluted. Keep away from face of young children."
   },
   {
@@ -3211,25 +3113,11 @@
     "size": "10ml",
     "tagline": "The oil of humility & non-attachment (Touch)",
     "colour": "#90A868",
-    "props": [
-      "Humble",
-      "Flexible",
-      "Strong"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Humble", "Flexible", "Strong"],
+    "apps": ["Topical"],
     "affirmation": "I release rigid beliefs and welcome new wisdom with humility.",
-    "pairs": [
-      "thyme",
-      "basil",
-      "lemon"
-    ],
-    "emotions": [
-      "humility",
-      "flexibility",
-      "strength"
-    ],
+    "pairs": ["thyme", "basil", "lemon"],
+    "emotions": ["humility", "flexibility", "strength"],
     "safetyNote": "Diluted. Avoid during pregnancy."
   },
   {
@@ -3240,25 +3128,11 @@
     "size": "10ml",
     "tagline": "The oil of energetic boundaries (Touch)",
     "colour": "#B8D8A8",
-    "props": [
-      "Protective",
-      "Cleansing",
-      "Boundaried"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Protective", "Cleansing", "Boundaried"],
+    "apps": ["Topical"],
     "affirmation": "I maintain healthy boundaries and protect my energy with ease.",
-    "pairs": [
-      "lavender",
-      "eucalyptus",
-      "lemon"
-    ],
-    "emotions": [
-      "protection",
-      "cleansing",
-      "boundaries"
-    ],
+    "pairs": ["lavender", "eucalyptus", "lemon"],
+    "emotions": ["protection", "cleansing", "boundaries"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3269,27 +3143,11 @@
     "size": "15ml",
     "tagline": "The oil of detoxification & renewal",
     "colour": "#A8C870",
-    "props": [
-      "Purifying",
-      "Renewing",
-      "Clarifying"
-    ],
-    "apps": [
-      "Aromatic",
-      "Internal",
-      "Topical"
-    ],
+    "props": ["Purifying", "Renewing", "Clarifying"],
+    "apps": ["Aromatic", "Internal", "Topical"],
     "affirmation": "I release what no longer serves me and welcome renewal.",
-    "pairs": [
-      "lemon",
-      "grapefruit",
-      "cilantro"
-    ],
-    "emotions": [
-      "renewal",
-      "clarity",
-      "release"
-    ],
+    "pairs": ["lemon", "grapefruit", "cilantro"],
+    "emotions": ["renewal", "clarity", "release"],
     "safetyNote": "Avoid during pregnancy. Consult healthcare provider before internal use."
   },
   {
@@ -3300,26 +3158,11 @@
     "size": "5ml",
     "tagline": "The oil of comfort & sensuality",
     "colour": "#C8A060",
-    "props": [
-      "Comforting",
-      "Warm",
-      "Grounding"
-    ],
-    "apps": [
-      "Aromatic",
-      "Topical"
-    ],
+    "props": ["Comforting", "Warm", "Grounding"],
+    "apps": ["Aromatic", "Topical"],
     "affirmation": "I am safe, warm and deeply comforted by life's sweetness.",
-    "pairs": [
-      "sandalwood",
-      "ylang-ylang",
-      "jasmine-touch"
-    ],
-    "emotions": [
-      "comfort",
-      "warmth",
-      "sensuality"
-    ],
+    "pairs": ["sandalwood", "ylang-ylang", "jasmine-touch"],
+    "emotions": ["comfort", "warmth", "sensuality"],
     "safetyNote": null
   },
   {
@@ -3330,26 +3173,11 @@
     "size": "5ml",
     "tagline": "The oil of sacred devotion",
     "colour": "#D4A878",
-    "props": [
-      "Devoted",
-      "Sacred",
-      "Present"
-    ],
-    "apps": [
-      "Aromatic",
-      "Topical"
-    ],
+    "props": ["Devoted", "Sacred", "Present"],
+    "apps": ["Aromatic", "Topical"],
     "affirmation": "I connect to the sacred in every moment and in all things.",
-    "pairs": [
-      "frankincense",
-      "rose",
-      "ylang-ylang"
-    ],
-    "emotions": [
-      "devotion",
-      "presence",
-      "sacredness"
-    ],
+    "pairs": ["frankincense", "rose", "ylang-ylang"],
+    "emotions": ["devotion", "presence", "sacredness"],
     "safetyNote": null
   },
   {
@@ -3360,26 +3188,11 @@
     "size": "30ml",
     "tagline": "The oil of balancing feminine energy",
     "colour": "#C8789A",
-    "props": [
-      "Balancing",
-      "Feminine",
-      "Harmonising"
-    ],
-    "apps": [
-      "Topical",
-      "Aromatic"
-    ],
+    "props": ["Balancing", "Feminine", "Harmonising"],
+    "apps": ["Topical", "Aromatic"],
     "affirmation": "I honour the full spectrum of my nature and live in beautiful balance.",
-    "pairs": [
-      "geranium",
-      "clary-sage",
-      "rose"
-    ],
-    "emotions": [
-      "balance",
-      "harmony",
-      "femininity"
-    ],
+    "pairs": ["geranium", "clary-sage", "rose"],
+    "emotions": ["balance", "harmony", "femininity"],
     "safetyNote": "Consult healthcare provider during pregnancy."
   },
   {
@@ -3390,25 +3203,11 @@
     "size": "10ml",
     "tagline": "The calming blend (Touch)",
     "colour": "#98B8C8",
-    "props": [
-      "Calm",
-      "Adaptable",
-      "Centred"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Calm", "Adaptable", "Centred"],
+    "apps": ["Topical"],
     "affirmation": "I adapt to life's changes with grace and inner calm.",
-    "pairs": [
-      "lavender",
-      "frankincense",
-      "vetiver"
-    ],
-    "emotions": [
-      "calm",
-      "adaptability",
-      "centredness"
-    ],
+    "pairs": ["lavender", "frankincense", "vetiver"],
+    "emotions": ["calm", "adaptability", "centredness"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3419,25 +3218,11 @@
     "size": "10ml",
     "tagline": "The respiratory blend (Touch)",
     "colour": "#80C8C8",
-    "props": [
-      "Open",
-      "Breathing",
-      "Clear"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Open", "Breathing", "Clear"],
+    "apps": ["Topical"],
     "affirmation": "I breathe fully and freely with open and clear airways.",
-    "pairs": [
-      "eucalyptus",
-      "peppermint",
-      "lavender"
-    ],
-    "emotions": [
-      "clarity",
-      "renewal",
-      "serenity"
-    ],
+    "pairs": ["eucalyptus", "peppermint", "lavender"],
+    "emotions": ["clarity", "renewal", "serenity"],
     "safetyNote": "Keep away from face of young children. Diluted."
   },
   {
@@ -3448,57 +3233,12 @@
     "size": "15ml",
     "tagline": "The advanced respiratory blend",
     "colour": "#60B8C0",
-    "props": [
-      "Open",
-      "Expansive",
-      "Breathing"
-    ],
-    "apps": [
-      "Topical",
-      "Aromatic"
-    ],
+    "props": ["Open", "Expansive", "Breathing"],
+    "apps": ["Topical", "Aromatic"],
     "affirmation": "Every breath fills me with fresh clarity and ease.",
-    "pairs": [
-      "eucalyptus",
-      "peppermint",
-      "air"
-    ],
-    "emotions": [
-      "clarity",
-      "openness",
-      "ease"
-    ],
+    "pairs": ["eucalyptus", "peppermint", "air"],
+    "emotions": ["clarity", "openness", "ease"],
     "safetyNote": "Keep away from face of young children."
-  },
-  {
-    "id": "balance",
-    "name": "dōTERRA Balance",
-    "latin": "Grounding Blend",
-    "family": "woody",
-    "size": "15ml",
-    "tagline": "The grounding blend",
-    "colour": "#708058",
-    "props": [
-      "Grounded",
-      "Stable",
-      "Serene"
-    ],
-    "apps": [
-      "Topical",
-      "Aromatic"
-    ],
-    "affirmation": "I am rooted, stable and completely at peace with where I am.",
-    "pairs": [
-      "frankincense",
-      "vetiver",
-      "cedarwood"
-    ],
-    "emotions": [
-      "grounding",
-      "stability",
-      "serenity"
-    ],
-    "safetyNote": null
   },
   {
     "id": "balance-touch",
@@ -3508,25 +3248,11 @@
     "size": "10ml",
     "tagline": "The grounding blend (Touch)",
     "colour": "#708058",
-    "props": [
-      "Grounded",
-      "Stable",
-      "Serene"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Grounded", "Stable", "Serene"],
+    "apps": ["Topical"],
     "affirmation": "I am rooted, stable and completely at peace with where I am.",
-    "pairs": [
-      "frankincense",
-      "vetiver",
-      "cedarwood"
-    ],
-    "emotions": [
-      "grounding",
-      "stability",
-      "serenity"
-    ],
+    "pairs": ["frankincense", "vetiver", "cedarwood"],
+    "emotions": ["grounding", "stability", "serenity"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3537,25 +3263,11 @@
     "size": "10ml",
     "tagline": "The uplifting blend (Touch)",
     "colour": "#F0C040",
-    "props": [
-      "Cheerful",
-      "Optimistic",
-      "Bright"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Cheerful", "Optimistic", "Bright"],
+    "apps": ["Topical"],
     "affirmation": "I choose joy and I radiate warmth and happiness to all around me.",
-    "pairs": [
-      "wild-orange",
-      "lemon",
-      "elevation"
-    ],
-    "emotions": [
-      "joy",
-      "optimism",
-      "cheerfulness"
-    ],
+    "pairs": ["wild-orange", "lemon", "elevation"],
+    "emotions": ["joy", "optimism", "cheerfulness"],
     "safetyNote": "Diluted. May cause photosensitivity."
   },
   {
@@ -3566,25 +3278,11 @@
     "size": "10ml",
     "tagline": "The comforting blend (Touch)",
     "colour": "#B888C0",
-    "props": [
-      "Comforted",
-      "Hopeful",
-      "Restored"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Comforted", "Hopeful", "Restored"],
+    "apps": ["Topical"],
     "affirmation": "I am held and comforted. Grief transforms into gentle peace.",
-    "pairs": [
-      "frankincense",
-      "rose",
-      "ylang-ylang"
-    ],
-    "emotions": [
-      "comfort",
-      "hope",
-      "restoration"
-    ],
+    "pairs": ["frankincense", "rose", "ylang-ylang"],
+    "emotions": ["comfort", "hope", "restoration"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3595,25 +3293,11 @@
     "size": "10ml",
     "tagline": "The soothing blend (Roll-On)",
     "colour": "#4478A8",
-    "props": [
-      "Soothed",
-      "Relieved",
-      "Comfortable"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Soothed", "Relieved", "Comfortable"],
+    "apps": ["Topical"],
     "affirmation": "I release all tension and sink into beautiful physical ease.",
-    "pairs": [
-      "lavender",
-      "frankincense",
-      "peppermint"
-    ],
-    "emotions": [
-      "serenity",
-      "acceptance",
-      "balance"
-    ],
+    "pairs": ["lavender", "frankincense", "peppermint"],
+    "emotions": ["serenity", "acceptance", "balance"],
     "safetyNote": "Do not use near eyes."
   },
   {
@@ -3624,25 +3308,11 @@
     "size": "10ml",
     "tagline": "The soothing blend (Touch)",
     "colour": "#4478A8",
-    "props": [
-      "Soothed",
-      "Relieved",
-      "Comfortable"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Soothed", "Relieved", "Comfortable"],
+    "apps": ["Topical"],
     "affirmation": "I release all tension and sink into beautiful physical ease.",
-    "pairs": [
-      "lavender",
-      "frankincense",
-      "peppermint"
-    ],
-    "emotions": [
-      "serenity",
-      "acceptance",
-      "balance"
-    ],
+    "pairs": ["lavender", "frankincense", "peppermint"],
+    "emotions": ["serenity", "acceptance", "balance"],
     "safetyNote": "Diluted. Do not use near eyes."
   },
   {
@@ -3653,25 +3323,11 @@
     "size": "10ml",
     "tagline": "The renewing blend (Touch)",
     "colour": "#90C888",
-    "props": [
-      "Forgiving",
-      "Renewed",
-      "Free"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Forgiving", "Renewed", "Free"],
+    "apps": ["Topical"],
     "affirmation": "I release resentment and embrace the freedom of forgiveness.",
-    "pairs": [
-      "frankincense",
-      "lavender",
-      "bergamot"
-    ],
-    "emotions": [
-      "forgiveness",
-      "renewal",
-      "freedom"
-    ],
+    "pairs": ["frankincense", "lavender", "bergamot"],
+    "emotions": ["forgiveness", "renewal", "freedom"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3682,25 +3338,11 @@
     "size": "10ml",
     "tagline": "The clear skin blend",
     "colour": "#B8D0A8",
-    "props": [
-      "Clear",
-      "Clean",
-      "Confident"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Clear", "Clean", "Confident"],
+    "apps": ["Topical"],
     "affirmation": "My skin reflects my inner radiance and I feel confident in my body.",
-    "pairs": [
-      "lavender",
-      "tea-tree-touch",
-      "lemon"
-    ],
-    "emotions": [
-      "confidence",
-      "clarity",
-      "self-acceptance"
-    ],
+    "pairs": ["lavender", "tea-tree-touch", "lemon"],
+    "emotions": ["confidence", "clarity", "self-acceptance"],
     "safetyNote": "For external use only. Avoid eyes."
   },
   {
@@ -3711,25 +3353,11 @@
     "size": "10ml",
     "tagline": "The inspiring blend (Touch)",
     "colour": "#F0A8C0",
-    "props": [
-      "Hopeful",
-      "Inspired",
-      "Uplifted"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Hopeful", "Inspired", "Uplifted"],
+    "apps": ["Topical"],
     "affirmation": "I carry hope in my heart and trust in the beauty of what is coming.",
-    "pairs": [
-      "frankincense",
-      "rose",
-      "console"
-    ],
-    "emotions": [
-      "hope",
-      "inspiration",
-      "uplift"
-    ],
+    "pairs": ["frankincense", "rose", "console"],
+    "emotions": ["hope", "inspiration", "uplift"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3740,26 +3368,11 @@
     "size": "10ml",
     "tagline": "The focus blend",
     "colour": "#6898C8",
-    "props": [
-      "Focused",
-      "Clear",
-      "Present"
-    ],
-    "apps": [
-      "Topical",
-      "Aromatic"
-    ],
+    "props": ["Focused", "Clear", "Present"],
+    "apps": ["Topical", "Aromatic"],
     "affirmation": "My mind is clear, focused and fully present in this moment.",
-    "pairs": [
-      "peppermint",
-      "frankincense",
-      "vetiver"
-    ],
-    "emotions": [
-      "focus",
-      "clarity",
-      "presence"
-    ],
+    "pairs": ["peppermint", "frankincense", "vetiver"],
+    "emotions": ["focus", "clarity", "presence"],
     "safetyNote": null
   },
   {
@@ -3770,25 +3383,11 @@
     "size": "10ml",
     "tagline": "The encouraging blend (Touch)",
     "colour": "#88C870",
-    "props": [
-      "Motivated",
-      "Courageous",
-      "Driven"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Motivated", "Courageous", "Driven"],
+    "apps": ["Topical"],
     "affirmation": "I am energised, motivated and capable of achieving anything I set my mind to.",
-    "pairs": [
-      "wild-orange",
-      "peppermint",
-      "elevation"
-    ],
-    "emotions": [
-      "motivation",
-      "courage",
-      "drive"
-    ],
+    "pairs": ["wild-orange", "peppermint", "elevation"],
+    "emotions": ["motivation", "courage", "drive"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3799,25 +3398,11 @@
     "size": "10ml",
     "tagline": "The inspiring blend (Touch)",
     "colour": "#E87858",
-    "props": [
-      "Passionate",
-      "Inspired",
-      "Alive"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Passionate", "Inspired", "Alive"],
+    "apps": ["Topical"],
     "affirmation": "I live with passion and purpose, fully alive to what moves me.",
-    "pairs": [
-      "ylang-ylang",
-      "jasmine-touch",
-      "sandalwood"
-    ],
-    "emotions": [
-      "passion",
-      "inspiration",
-      "aliveness"
-    ],
+    "pairs": ["ylang-ylang", "jasmine-touch", "sandalwood"],
+    "emotions": ["passion", "inspiration", "aliveness"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3828,25 +3413,11 @@
     "size": "10ml",
     "tagline": "The reassuring blend (Touch)",
     "colour": "#A8C8D8",
-    "props": [
-      "Peaceful",
-      "Reassured",
-      "Centred"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Peaceful", "Reassured", "Centred"],
+    "apps": ["Topical"],
     "affirmation": "I am at peace with myself and trust the unfolding of my life.",
-    "pairs": [
-      "lavender",
-      "vetiver",
-      "frankincense"
-    ],
-    "emotions": [
-      "peace",
-      "reassurance",
-      "centredness"
-    ],
+    "pairs": ["lavender", "vetiver", "frankincense"],
+    "emotions": ["peace", "reassurance", "centredness"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3857,25 +3428,11 @@
     "size": "10ml",
     "tagline": "The anti-ageing blend",
     "colour": "#E8C8B0",
-    "props": [
-      "Radiant",
-      "Youthful",
-      "Restored"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Radiant", "Youthful", "Restored"],
+    "apps": ["Topical"],
     "affirmation": "I honour my skin as a reflection of my inner vitality and radiance.",
-    "pairs": [
-      "frankincense",
-      "rose",
-      "helichrysum"
-    ],
-    "emotions": [
-      "radiance",
-      "vitality",
-      "self-care"
-    ],
+    "pairs": ["frankincense", "rose", "helichrysum"],
+    "emotions": ["radiance", "vitality", "self-care"],
     "safetyNote": "For external use only. Avoid eyes."
   },
   {
@@ -3886,26 +3443,11 @@
     "size": "15ml",
     "tagline": "The restful blend",
     "colour": "#9898C8",
-    "props": [
-      "Restful",
-      "Serene",
-      "Peaceful"
-    ],
-    "apps": [
-      "Topical",
-      "Aromatic"
-    ],
+    "props": ["Restful", "Serene", "Peaceful"],
+    "apps": ["Topical", "Aromatic"],
     "affirmation": "I release the day with ease and surrender into deep, restful peace.",
-    "pairs": [
-      "lavender",
-      "vetiver",
-      "cedarwood"
-    ],
-    "emotions": [
-      "serenity",
-      "rest",
-      "peace"
-    ],
+    "pairs": ["lavender", "vetiver", "cedarwood"],
+    "emotions": ["serenity", "rest", "peace"],
     "safetyNote": null
   },
   {
@@ -3916,25 +3458,11 @@
     "size": "10ml",
     "tagline": "The forest bathing blend (Touch)",
     "colour": "#6A9A70",
-    "props": [
-      "Grounded",
-      "Connected",
-      "Restored"
-    ],
-    "apps": [
-      "Topical"
-    ],
+    "props": ["Grounded", "Connected", "Restored"],
+    "apps": ["Topical"],
     "affirmation": "I reconnect with nature and feel restored by the living world around me.",
-    "pairs": [
-      "cedarwood",
-      "siberian-fir",
-      "vetiver"
-    ],
-    "emotions": [
-      "connection",
-      "restoration",
-      "grounding"
-    ],
+    "pairs": ["cedarwood", "siberian-fir", "vetiver"],
+    "emotions": ["connection", "restoration", "grounding"],
     "safetyNote": "Diluted for sensitive skin."
   },
   {
@@ -3945,25 +3473,11 @@
     "size": "60 softgels",
     "tagline": "The seasonal comfort blend",
     "colour": "#C8D870",
-    "props": [
-      "Comfortable",
-      "Seasonal",
-      "Supported"
-    ],
-    "apps": [
-      "Internal"
-    ],
+    "props": ["Comfortable", "Seasonal", "Supported"],
+    "apps": ["Internal"],
     "affirmation": "I move through every season with ease and comfortable vitality.",
-    "pairs": [
-      "lavender",
-      "lemon",
-      "peppermint"
-    ],
-    "emotions": [
-      "comfort",
-      "ease",
-      "support"
-    ],
+    "pairs": ["lavender", "lemon", "peppermint"],
+    "emotions": ["comfort", "ease", "support"],
     "safetyNote": "Consult healthcare provider before use."
   }
 ]
