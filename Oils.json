@@ -1,0 +1,3969 @@
+[
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "latin": "Lavandula angustifolia",
+    "family": "floral",
+    "size": "15ml",
+    "tagline": "The oil of communication & calm",
+    "colour": "#C8B4D4",
+    "props": [
+      "Calming",
+      "Nurturing",
+      "Communicative"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I express myself clearly and with beautiful grace.",
+    "pairs": [
+      "frankincense",
+      "bergamot",
+      "roman-chamomile"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "frankincense",
+    "name": "Frankincense",
+    "latin": "Boswellia carterii",
+    "family": "resin",
+    "size": "15ml",
+    "tagline": "The oil of truth & spiritual awakening",
+    "colour": "#C4A882",
+    "props": [
+      "Grounding",
+      "Enlightening",
+      "Protective"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am deeply connected to divine wisdom and truth.",
+    "pairs": [
+      "lavender",
+      "sandalwood",
+      "rose"
+    ],
+    "emotions": [
+      "peace",
+      "grounding",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "wild-orange",
+    "name": "Wild Orange",
+    "latin": "Citrus sinensis",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of abundance & joy",
+    "colour": "#F4A543",
+    "props": [
+      "Uplifting",
+      "Joyful",
+      "Abundant"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am open to receiving infinite abundance and joy.",
+    "pairs": [
+      "elevation",
+      "bergamot",
+      "peppermint"
+    ],
+    "emotions": [
+      "joy",
+      "enthusiasm",
+      "hope"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "peppermint",
+    "name": "Peppermint",
+    "latin": "Mentha piperita",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of a buoyant heart",
+    "colour": "#7DC4A8",
+    "props": [
+      "Invigorating",
+      "Encouraging",
+      "Uplifting"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace life with full vitality and enthusiasm.",
+    "pairs": [
+      "wild-orange",
+      "lavender",
+      "lemon"
+    ],
+    "emotions": [
+      "enthusiasm",
+      "focus",
+      "empowerment"
+    ],
+    "safetyNote": "Keep away from eyes. Dilute for sensitive skin."
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "latin": "Citrus limon",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of focus & clarity",
+    "colour": "#F7D76A",
+    "props": [
+      "Clarifying",
+      "Energising",
+      "Focused"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "My mind is perfectly clear, focused and energised.",
+    "pairs": [
+      "peppermint",
+      "frankincense",
+      "lavender"
+    ],
+    "emotions": [
+      "clarity",
+      "focus",
+      "renewal"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "bergamot",
+    "name": "Bergamot",
+    "latin": "Citrus bergamia",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of self-acceptance",
+    "colour": "#A8C88C",
+    "props": [
+      "Self-accepting",
+      "Hopeful",
+      "Worthy"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I accept myself fully and completely, just as I am.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "ylang-ylang"
+    ],
+    "emotions": [
+      "acceptance",
+      "hope",
+      "confidence"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "cedarwood",
+    "name": "Cedarwood",
+    "latin": "Juniperus virginiana",
+    "family": "wood",
+    "size": "15ml",
+    "tagline": "The oil of community & belonging",
+    "colour": "#8C6E4A",
+    "props": [
+      "Grounding",
+      "Connected",
+      "Secure"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am deeply rooted and lovingly connected to those around me.",
+    "pairs": [
+      "vetiver",
+      "frankincense",
+      "lavender"
+    ],
+    "emotions": [
+      "grounding",
+      "peace",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "clary-sage",
+    "name": "Clary Sage",
+    "latin": "Salvia sclarea",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of clarity & vision",
+    "colour": "#8A9C7E",
+    "props": [
+      "Clarifying",
+      "Perceptive",
+      "Intuitive"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I trust my inner vision and see all things with perfect clarity.",
+    "pairs": [
+      "lavender",
+      "bergamot",
+      "geranium"
+    ],
+    "emotions": [
+      "clarity",
+      "intuition",
+      "renewal"
+    ],
+    "safetyNote": "Avoid during pregnancy."
+  },
+  {
+    "id": "ylang-ylang",
+    "name": "Ylang Ylang",
+    "latin": "Cananga odorata",
+    "family": "floral",
+    "size": "15ml",
+    "tagline": "The oil of the inner child",
+    "colour": "#F0D080",
+    "props": [
+      "Playful",
+      "Joyful",
+      "Loving"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I embrace my playful spirit and infinite capacity for love.",
+    "pairs": [
+      "bergamot",
+      "lavender",
+      "geranium"
+    ],
+    "emotions": [
+      "joy",
+      "love",
+      "trust"
+    ],
+    "safetyNote": "Use in dilution. Avoid during pregnancy."
+  },
+  {
+    "id": "geranium",
+    "name": "Geranium",
+    "latin": "Pelargonium graveolens",
+    "family": "floral",
+    "size": "15ml",
+    "tagline": "The oil of love & trust",
+    "colour": "#E8A0B0",
+    "props": [
+      "Nurturing",
+      "Trusting",
+      "Loving"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I give and receive love with a wide and fully open heart.",
+    "pairs": [
+      "lavender",
+      "rose",
+      "ylang-ylang"
+    ],
+    "emotions": [
+      "love",
+      "trust",
+      "compassion"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "rose",
+    "name": "Rose",
+    "latin": "Rosa damascena",
+    "family": "floral",
+    "size": "5ml",
+    "tagline": "The oil of divine love",
+    "colour": "#E8809C",
+    "props": [
+      "Loving",
+      "Compassionate",
+      "Healing"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am wholly worthy of infinite love and deep compassion.",
+    "pairs": [
+      "frankincense",
+      "geranium",
+      "jasmine-touch"
+    ],
+    "emotions": [
+      "love",
+      "compassion",
+      "forgiveness"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "sandalwood",
+    "name": "Sandalwood",
+    "latin": "Santalum album",
+    "family": "wood",
+    "size": "5ml",
+    "tagline": "The oil of sacred devotion",
+    "colour": "#C8A870",
+    "props": [
+      "Devotional",
+      "Grounding",
+      "Centring"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am present, grounded and devoted to my highest self.",
+    "pairs": [
+      "frankincense",
+      "rose",
+      "vetiver"
+    ],
+    "emotions": [
+      "peace",
+      "grounding",
+      "balance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "vetiver",
+    "name": "Vetiver",
+    "latin": "Chrysopogon zizanioides",
+    "family": "earthy",
+    "size": "15ml",
+    "tagline": "The oil of centering & descent",
+    "colour": "#7A6444",
+    "props": [
+      "Grounding",
+      "Stabilising",
+      "Centring"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am rooted, centred and dwelling in perfect peace.",
+    "pairs": [
+      "cedarwood",
+      "frankincense",
+      "sandalwood"
+    ],
+    "emotions": [
+      "grounding",
+      "peace",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "clove",
+    "name": "Clove",
+    "latin": "Syzygium aromaticum",
+    "family": "spice",
+    "size": "15ml",
+    "tagline": "The oil of boundaries & protection",
+    "colour": "#8C4E34",
+    "props": [
+      "Protected",
+      "Boundaried",
+      "Confident"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I honour my boundaries and stand fully in my sovereign power.",
+    "pairs": [
+      "bergamot",
+      "wild-orange",
+      "frankincense"
+    ],
+    "emotions": [
+      "courage",
+      "empowerment",
+      "confidence"
+    ],
+    "safetyNote": "Hot oil — always dilute well before topical use."
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "latin": "Zingiber officinale",
+    "family": "spice",
+    "size": "15ml",
+    "tagline": "The oil of empowerment",
+    "colour": "#C87840",
+    "props": [
+      "Empowered",
+      "Purposeful",
+      "Grounded"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I step forward with purpose, passion and full personal power.",
+    "pairs": [
+      "wild-orange",
+      "frankincense",
+      "cedarwood"
+    ],
+    "emotions": [
+      "courage",
+      "empowerment",
+      "enthusiasm"
+    ],
+    "safetyNote": "Dilute before topical use."
+  },
+  {
+    "id": "jasmine-touch",
+    "name": "Jasmine Touch",
+    "latin": "Jasminum grandiflorum",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of intuition & dreams",
+    "colour": "#F0E4A8",
+    "props": [
+      "Intuitive",
+      "Inspired",
+      "Romantic"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I trust my deepest intuition and honour my inspired heart.",
+    "pairs": [
+      "rose",
+      "ylang-ylang",
+      "sandalwood"
+    ],
+    "emotions": [
+      "intuition",
+      "love",
+      "openness"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "neroli-touch",
+    "name": "Neroli Touch",
+    "latin": "Citrus aurantium",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of serenity & hope",
+    "colour": "#F0D8A0",
+    "props": [
+      "Serene",
+      "Hopeful",
+      "Uplifted"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I embrace hope and discover serenity in every single moment.",
+    "pairs": [
+      "lavender",
+      "bergamot",
+      "jasmine-touch"
+    ],
+    "emotions": [
+      "serenity",
+      "hope",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "melissa",
+    "name": "Melissa",
+    "latin": "Melissa officinalis",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The oil of light & love",
+    "colour": "#C4D8A0",
+    "props": [
+      "Radiant",
+      "Loving",
+      "Light"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I radiate pure light and loving warmth to all those around me.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "neroli-touch"
+    ],
+    "emotions": [
+      "joy",
+      "love",
+      "inspiration"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "roman-chamomile",
+    "name": "Roman Chamomile",
+    "latin": "Anthemis nobilis",
+    "family": "floral",
+    "size": "5ml",
+    "tagline": "The oil of spiritual purpose",
+    "colour": "#E4D890",
+    "props": [
+      "Purposeful",
+      "Peaceful",
+      "Receptive"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am fully and beautifully aligned with my deepest purpose.",
+    "pairs": [
+      "lavender",
+      "bergamot",
+      "neroli-touch"
+    ],
+    "emotions": [
+      "serenity",
+      "peace",
+      "acceptance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "copaiba",
+    "name": "Copaiba",
+    "latin": "Copaifera officinalis",
+    "family": "resin",
+    "size": "15ml",
+    "tagline": "The oil of unveiling truth",
+    "colour": "#C4B890",
+    "props": [
+      "Honest",
+      "Clear",
+      "Receptive"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace truth and allow my authentic self to fully shine.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "sandalwood"
+    ],
+    "emotions": [
+      "clarity",
+      "openness",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "helichrysum",
+    "name": "Helichrysum",
+    "latin": "Helichrysum italicum",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The oil of pain to purpose",
+    "colour": "#E8C870",
+    "props": [
+      "Healing",
+      "Releasing",
+      "Transforming"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I release past pain and step into my highest beautiful purpose.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "rose"
+    ],
+    "emotions": [
+      "forgiveness",
+      "renewal",
+      "hope"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "patchouli",
+    "name": "Patchouli",
+    "latin": "Pogostemon cablin",
+    "family": "earthy",
+    "size": "15ml",
+    "tagline": "The oil of physicality",
+    "colour": "#7A6840",
+    "props": [
+      "Grounded",
+      "Sensual",
+      "Balanced"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am fully present and deeply at home in my own body.",
+    "pairs": [
+      "bergamot",
+      "cedarwood",
+      "vetiver"
+    ],
+    "emotions": [
+      "grounding",
+      "balance",
+      "acceptance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "myrrh",
+    "name": "Myrrh",
+    "latin": "Commiphora myrrha",
+    "family": "resin",
+    "size": "15ml",
+    "tagline": "The oil of mother earth",
+    "colour": "#B88850",
+    "props": [
+      "Nurturing",
+      "Rooted",
+      "Spiritual"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am nourished, loved and fully supported by the earth.",
+    "pairs": [
+      "frankincense",
+      "sandalwood",
+      "lavender"
+    ],
+    "emotions": [
+      "grounding",
+      "peace",
+      "trust"
+    ],
+    "safetyNote": "Avoid during pregnancy."
+  },
+  {
+    "id": "marjoram",
+    "name": "Marjoram",
+    "latin": "Origanum majorana",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of connection",
+    "colour": "#A0B890",
+    "props": [
+      "Connected",
+      "Comforted",
+      "Warm"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I open my heart to meaningful connection and belonging.",
+    "pairs": [
+      "lavender",
+      "cedarwood",
+      "frankincense"
+    ],
+    "emotions": [
+      "love",
+      "trust",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "latin": "Coriandrum sativum",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of integrity",
+    "colour": "#C4D490",
+    "props": [
+      "Honest",
+      "Stable",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I live in full integrity, aligned with my deepest truth.",
+    "pairs": [
+      "frankincense",
+      "lemon",
+      "bergamot"
+    ],
+    "emotions": [
+      "clarity",
+      "balance",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "cassia",
+    "name": "Cassia",
+    "latin": "Cinnamomum cassia",
+    "family": "spice",
+    "size": "15ml",
+    "tagline": "The oil of self-assurance",
+    "colour": "#C87050",
+    "props": [
+      "Confident",
+      "Bold",
+      "Warm"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I step forward with quiet, unshakeable self-assurance.",
+    "pairs": [
+      "wild-orange",
+      "ginger",
+      "frankincense"
+    ],
+    "emotions": [
+      "courage",
+      "confidence",
+      "empowerment"
+    ],
+    "safetyNote": "Hot oil — dilute thoroughly. Avoid during pregnancy."
+  },
+  {
+    "id": "black-pepper",
+    "name": "Black Pepper",
+    "latin": "Piper nigrum",
+    "family": "spice",
+    "size": "5ml",
+    "tagline": "The oil of unmasking",
+    "colour": "#706060",
+    "props": [
+      "Authentic",
+      "Honest",
+      "Revealing"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I release masks and embrace my whole, authentic self.",
+    "pairs": [
+      "frankincense",
+      "bergamot",
+      "sandalwood"
+    ],
+    "emotions": [
+      "courage",
+      "openness",
+      "clarity"
+    ],
+    "safetyNote": "Dilute before topical use."
+  },
+  {
+    "id": "cypress",
+    "name": "Cypress",
+    "latin": "Cupressus sempervirens",
+    "family": "wood",
+    "size": "15ml",
+    "tagline": "The oil of motion & flow",
+    "colour": "#5C7C5C",
+    "props": [
+      "Flowing",
+      "Flexible",
+      "Releasing"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I release all resistance and allow life to flow beautifully.",
+    "pairs": [
+      "cedarwood",
+      "frankincense",
+      "bergamot"
+    ],
+    "emotions": [
+      "acceptance",
+      "surrender",
+      "renewal"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "eucalyptus",
+    "name": "Eucalyptus",
+    "latin": "Eucalyptus radiata",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of wellness & breath",
+    "colour": "#78B4A8",
+    "props": [
+      "Refreshing",
+      "Clear",
+      "Renewing"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I breathe in clarity and breathe out all that no longer serves.",
+    "pairs": [
+      "peppermint",
+      "lemon",
+      "lavender"
+    ],
+    "emotions": [
+      "clarity",
+      "renewal",
+      "serenity"
+    ],
+    "safetyNote": "Keep away from face of young children."
+  },
+  {
+    "id": "fennel",
+    "name": "Fennel",
+    "latin": "Foeniculum vulgare",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of responsibility",
+    "colour": "#C4D47C",
+    "props": [
+      "Responsible",
+      "Mature",
+      "Confident"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace full responsibility for my own beautiful life.",
+    "pairs": [
+      "ginger",
+      "lemon",
+      "frankincense"
+    ],
+    "emotions": [
+      "empowerment",
+      "confidence",
+      "clarity"
+    ],
+    "safetyNote": "Avoid during pregnancy. Not for children under 5."
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "latin": "Origanum vulgare",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of humility",
+    "colour": "#8C9C60",
+    "props": [
+      "Humble",
+      "Open",
+      "Cleansed"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I release pride and step gently into gratitude.",
+    "pairs": [
+      "frankincense",
+      "lemon",
+      "bergamot"
+    ],
+    "emotions": [
+      "acceptance",
+      "surrender",
+      "openness"
+    ],
+    "safetyNote": "Hot oil — dilute well. Avoid during pregnancy."
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "latin": "Thymus vulgaris",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of releasing & forgiving",
+    "colour": "#A0B070",
+    "props": [
+      "Releasing",
+      "Forgiving",
+      "Purifying"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I release stored anger and return to the ease of forgiveness.",
+    "pairs": [
+      "lavender",
+      "bergamot",
+      "lemon"
+    ],
+    "emotions": [
+      "forgiveness",
+      "renewal",
+      "acceptance"
+    ],
+    "safetyNote": "Dilute well before topical use."
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "latin": "Salvia rosmarinus",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of knowledge",
+    "colour": "#90A878",
+    "props": [
+      "Knowledgeable",
+      "Clear",
+      "Focused"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I access the wisdom within me with clarity and confidence.",
+    "pairs": [
+      "peppermint",
+      "lemon",
+      "frankincense"
+    ],
+    "emotions": [
+      "clarity",
+      "focus",
+      "confidence"
+    ],
+    "safetyNote": "Avoid during pregnancy. Not for epilepsy."
+  },
+  {
+    "id": "spearmint",
+    "name": "Spearmint",
+    "latin": "Mentha spicata",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of confident speech",
+    "colour": "#90D4B8",
+    "props": [
+      "Expressive",
+      "Confident",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I express my true thoughts with confidence and ease.",
+    "pairs": [
+      "bergamot",
+      "lavender",
+      "lemon"
+    ],
+    "emotions": [
+      "confidence",
+      "clarity",
+      "joy"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "lemongrass",
+    "name": "Lemongrass",
+    "latin": "Cymbopogon flexuosus",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of cleansing & renewal",
+    "colour": "#C8DC80",
+    "props": [
+      "Cleansing",
+      "Renewing",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I cleanse my energy and step into vibrant renewal.",
+    "pairs": [
+      "lavender",
+      "lemon",
+      "peppermint"
+    ],
+    "emotions": [
+      "renewal",
+      "clarity",
+      "serenity"
+    ],
+    "safetyNote": "Dilute before topical use."
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "latin": "Ocimum basilicum",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of renewal",
+    "colour": "#78B074",
+    "props": [
+      "Renewed",
+      "Energised",
+      "Strengthened"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I renew my strength and face life with vibrant energy.",
+    "pairs": [
+      "frankincense",
+      "bergamot",
+      "lavender"
+    ],
+    "emotions": [
+      "renewal",
+      "courage",
+      "enthusiasm"
+    ],
+    "safetyNote": "Avoid during pregnancy."
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "latin": "Citrus x paradisi",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of honouring the body",
+    "colour": "#F4A8A0",
+    "props": [
+      "Accepting",
+      "Joyful",
+      "Satisfied"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I accept and honour my body with deep gratitude and love.",
+    "pairs": [
+      "bergamot",
+      "lemon",
+      "wild-orange"
+    ],
+    "emotions": [
+      "acceptance",
+      "joy",
+      "contentment"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon",
+    "latin": "Cinnamomum verum",
+    "family": "spice",
+    "size": "5ml",
+    "tagline": "The oil of sexual harmony",
+    "colour": "#C87050",
+    "props": [
+      "Warm",
+      "Harmonious",
+      "Courageous"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace warmth, harmony and the gift of authentic relating.",
+    "pairs": [
+      "wild-orange",
+      "frankincense",
+      "ylang-ylang"
+    ],
+    "emotions": [
+      "love",
+      "courage",
+      "balance"
+    ],
+    "safetyNote": "Hot oil — dilute very well. Avoid during pregnancy."
+  },
+  {
+    "id": "tea-tree",
+    "name": "Tea Tree",
+    "latin": "Melaleuca alternifolia",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of energetic boundaries",
+    "colour": "#78C4A8",
+    "props": [
+      "Boundaried",
+      "Protected",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I set clear, loving boundaries and protect my sacred energy.",
+    "pairs": [
+      "lavender",
+      "lemon",
+      "frankincense"
+    ],
+    "emotions": [
+      "courage",
+      "confidence",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "latin": "Citrus aurantiifolia",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of zest for life",
+    "colour": "#A8DC6C",
+    "props": [
+      "Zestful",
+      "Uplifting",
+      "Joyful"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace life with sparkling joy and infectious enthusiasm.",
+    "pairs": [
+      "wild-orange",
+      "bergamot",
+      "lemon"
+    ],
+    "emotions": [
+      "joy",
+      "enthusiasm",
+      "hope"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "cardamom",
+    "name": "Cardamom",
+    "latin": "Elettaria cardamomum",
+    "family": "spice",
+    "size": "5ml",
+    "tagline": "The oil of objectivity",
+    "colour": "#B8C890",
+    "props": [
+      "Objective",
+      "Clear",
+      "Balanced"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I see clearly and respond to life with calm objectivity.",
+    "pairs": [
+      "frankincense",
+      "bergamot",
+      "ginger"
+    ],
+    "emotions": [
+      "clarity",
+      "balance",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "tangerine",
+    "name": "Tangerine",
+    "latin": "Citrus reticulata",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of cheer & creativity",
+    "colour": "#F4B060",
+    "props": [
+      "Cheerful",
+      "Creative",
+      "Playful"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace my creative nature with childlike joy and delight.",
+    "pairs": [
+      "wild-orange",
+      "bergamot",
+      "ylang-ylang"
+    ],
+    "emotions": [
+      "joy",
+      "enthusiasm",
+      "inspiration"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "wintergreen",
+    "name": "Wintergreen",
+    "latin": "Gaultheria procumbens",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of surrender",
+    "colour": "#88C8A0",
+    "props": [
+      "Surrendered",
+      "Flexible",
+      "Releasing"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I release the need to control and trust in life's perfect plan.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "vetiver"
+    ],
+    "emotions": [
+      "surrender",
+      "acceptance",
+      "peace"
+    ],
+    "safetyNote": "Avoid during pregnancy. Contains methyl salicylate."
+  },
+  {
+    "id": "spikenard",
+    "name": "Spikenard",
+    "latin": "Nardostachys jatamansi",
+    "family": "earthy",
+    "size": "5ml",
+    "tagline": "The oil of gratitude & trust",
+    "colour": "#B09878",
+    "props": [
+      "Grateful",
+      "Devoted",
+      "Trusting"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I live in profound gratitude and trust in divine perfection.",
+    "pairs": [
+      "frankincense",
+      "sandalwood",
+      "vetiver"
+    ],
+    "emotions": [
+      "peace",
+      "trust",
+      "gratitude"
+    ],
+    "safetyNote": "Avoid during pregnancy."
+  },
+  {
+    "id": "juniper-berry",
+    "name": "Juniper Berry",
+    "latin": "Juniperus communis",
+    "family": "wood",
+    "size": "5ml",
+    "tagline": "The oil of night vision & clarity",
+    "colour": "#7090A0",
+    "props": [
+      "Clear",
+      "Fearless",
+      "Visionary"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I see through the darkness with clear and courageous vision.",
+    "pairs": [
+      "cedarwood",
+      "frankincense",
+      "lavender"
+    ],
+    "emotions": [
+      "clarity",
+      "courage",
+      "intuition"
+    ],
+    "safetyNote": "Avoid during pregnancy."
+  },
+  {
+    "id": "douglas-fir",
+    "name": "Douglas Fir",
+    "latin": "Pseudotsuga menziesii",
+    "family": "wood",
+    "size": "5ml",
+    "tagline": "The oil of generational wisdom",
+    "colour": "#5A7858",
+    "props": [
+      "Wise",
+      "Grounded",
+      "Purposeful"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I honour the wisdom of my ancestors and stand in my truth.",
+    "pairs": [
+      "cedarwood",
+      "frankincense",
+      "vetiver"
+    ],
+    "emotions": [
+      "grounding",
+      "trust",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "petitgrain",
+    "name": "Petitgrain",
+    "latin": "Citrus aurantium",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of being of good cheer",
+    "colour": "#C4D890",
+    "props": [
+      "Cheerful",
+      "Optimistic",
+      "Stable"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I choose optimism and carry good cheer wherever I go.",
+    "pairs": [
+      "bergamot",
+      "lavender",
+      "frankincense"
+    ],
+    "emotions": [
+      "joy",
+      "serenity",
+      "hope"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "siberian-fir",
+    "name": "Siberian Fir",
+    "latin": "Abies sibirica",
+    "family": "wood",
+    "size": "15ml",
+    "tagline": "The oil of steadiness & wisdom",
+    "colour": "#7090A4",
+    "props": [
+      "Wise",
+      "Strengthened",
+      "Peaceful"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I draw on ancient wisdom and stand steady in my sacred purpose.",
+    "pairs": [
+      "cedarwood",
+      "frankincense",
+      "sandalwood"
+    ],
+    "emotions": [
+      "peace",
+      "grounding",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "black-spruce",
+    "name": "Black Spruce",
+    "latin": "Picea mariana",
+    "family": "wood",
+    "size": "5ml",
+    "tagline": "The oil of empowerment & opening",
+    "colour": "#607C80",
+    "props": [
+      "Empowered",
+      "Open",
+      "Supported"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I feel fully supported as I step into my empowered potential.",
+    "pairs": [
+      "frankincense",
+      "cedarwood",
+      "vetiver"
+    ],
+    "emotions": [
+      "empowerment",
+      "courage",
+      "openness"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "blue-tansy",
+    "name": "Blue Tansy",
+    "latin": "Tanacetum annuum",
+    "family": "floral",
+    "size": "5ml",
+    "tagline": "The oil of inspired learning",
+    "colour": "#5060A0",
+    "props": [
+      "Inspired",
+      "Open",
+      "Curious"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I open my mind to inspired learning and joyful discovery.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "bergamot"
+    ],
+    "emotions": [
+      "openness",
+      "inspiration",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "arborvitae",
+    "name": "Arborvitae",
+    "latin": "Thuja plicata",
+    "family": "wood",
+    "size": "5ml",
+    "tagline": "The oil of divine grace",
+    "colour": "#608060",
+    "props": [
+      "Graceful",
+      "Trusting",
+      "Surrendered"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I trust in divine grace and surrender to life's perfect timing.",
+    "pairs": [
+      "cedarwood",
+      "frankincense",
+      "sandalwood"
+    ],
+    "emotions": [
+      "surrender",
+      "peace",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "blue-lotus-touch",
+    "name": "Blue Lotus Touch",
+    "latin": "Nymphaea caerulea",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of spiritual opening",
+    "colour": "#7080C0",
+    "props": [
+      "Spiritual",
+      "Elevated",
+      "Transcendent"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I open to the sacred mystery and let spirit move freely through me.",
+    "pairs": [
+      "frankincense",
+      "sandalwood",
+      "neroli-touch"
+    ],
+    "emotions": [
+      "peace",
+      "openness",
+      "inspiration"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "tulsi",
+    "name": "Tulsi",
+    "latin": "Ocimum tenuiflorum",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The oil of clarity & devotion",
+    "colour": "#90C080",
+    "props": [
+      "Devoted",
+      "Clear",
+      "Sacred"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I live with sacred devotion to my highest truth.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "melissa"
+    ],
+    "emotions": [
+      "clarity",
+      "peace",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric",
+    "latin": "Curcuma longa",
+    "family": "spice",
+    "size": "15ml",
+    "tagline": "The oil of resilience",
+    "colour": "#E8B840",
+    "props": [
+      "Resilient",
+      "Strong",
+      "Vibrant"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I stand resilient and vibrant, rooted in my own deep strength.",
+    "pairs": [
+      "frankincense",
+      "ginger",
+      "sandalwood"
+    ],
+    "emotions": [
+      "courage",
+      "empowerment",
+      "grounding"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "guaiacwood",
+    "name": "Guaiacwood",
+    "latin": "Bulnesia sarmientoi",
+    "family": "wood",
+    "size": "15ml",
+    "tagline": "The oil of inner peace",
+    "colour": "#907060",
+    "props": [
+      "Peaceful",
+      "Grounded",
+      "Still"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am still and at peace, rooted in quiet inner knowing.",
+    "pairs": [
+      "sandalwood",
+      "frankincense",
+      "vetiver"
+    ],
+    "emotions": [
+      "peace",
+      "stillness",
+      "grounding"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "latin": "Coriandrum sativum",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of releasing toxicity",
+    "colour": "#A0C870",
+    "props": [
+      "Cleansed",
+      "Released",
+      "Refreshed"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I release what is toxic and welcome in fresh, clean energy.",
+    "pairs": [
+      "lemon",
+      "peppermint",
+      "frankincense"
+    ],
+    "emotions": [
+      "renewal",
+      "acceptance",
+      "clarity"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "green-mandarin",
+    "name": "Green Mandarin",
+    "latin": "Citrus reticulata",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The oil of youthful joy",
+    "colour": "#90D070",
+    "props": [
+      "Joyful",
+      "Fresh",
+      "Playful"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I embrace a fresh, youthful joy that delights in the now.",
+    "pairs": [
+      "wild-orange",
+      "lemon",
+      "bergamot"
+    ],
+    "emotions": [
+      "joy",
+      "playfulness",
+      "renewal"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "magnolia-touch",
+    "name": "Magnolia Touch",
+    "latin": "Magnolia x alba",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of compassion & kindness",
+    "colour": "#F0DCE8",
+    "props": [
+      "Compassionate",
+      "Kind",
+      "Gentle"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I lead with compassion and meet myself and others with kindness.",
+    "pairs": [
+      "rose",
+      "geranium",
+      "lavender"
+    ],
+    "emotions": [
+      "compassion",
+      "love",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "pink-pepper",
+    "name": "Pink Pepper",
+    "latin": "Schinus molle",
+    "family": "spice",
+    "size": "5ml",
+    "tagline": "The oil of the courageous heart",
+    "colour": "#E8A0A8",
+    "props": [
+      "Courageous",
+      "Open",
+      "Energised"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I open my heart with courage and embrace bold new possibilities.",
+    "pairs": [
+      "bergamot",
+      "wild-orange",
+      "ginger"
+    ],
+    "emotions": [
+      "courage",
+      "openness",
+      "enthusiasm"
+    ],
+    "safetyNote": "Dilute before topical use."
+  },
+  {
+    "id": "spanish-sage",
+    "name": "Spanish Sage",
+    "latin": "Salvia lavandulifolia",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of wisdom & clarity",
+    "colour": "#A0A8C0",
+    "props": [
+      "Wise",
+      "Clear",
+      "Centred"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I access deep wisdom and express it with clear, calm confidence.",
+    "pairs": [
+      "frankincense",
+      "rosemary",
+      "lavender"
+    ],
+    "emotions": [
+      "clarity",
+      "confidence",
+      "peace"
+    ],
+    "safetyNote": "Avoid during pregnancy. Use with caution if epileptic."
+  },
+  {
+    "id": "citronella",
+    "name": "Citronella",
+    "latin": "Cymbopogon nardus",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of fresh perspective",
+    "colour": "#D4DC80",
+    "props": [
+      "Refreshed",
+      "Clear",
+      "Uplifted"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I clear stale energy and welcome a bright, fresh perspective.",
+    "pairs": [
+      "lemon",
+      "lavender",
+      "eucalyptus"
+    ],
+    "emotions": [
+      "renewal",
+      "clarity",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "lemon-eucalyptus",
+    "name": "Lemon Eucalyptus",
+    "latin": "Corymbia citriodora",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of purification",
+    "colour": "#A8D8B0",
+    "props": [
+      "Purifying",
+      "Clear",
+      "Uplifting"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I purify my space and step into clarity and fresh new energy.",
+    "pairs": [
+      "eucalyptus",
+      "lemon",
+      "peppermint"
+    ],
+    "emotions": [
+      "clarity",
+      "renewal",
+      "serenity"
+    ],
+    "safetyNote": "Dilute well before topical use."
+  },
+  {
+    "id": "balance",
+    "name": "dōTERRA Balance",
+    "latin": "Grounding Blend",
+    "family": "earthy",
+    "size": "15ml",
+    "tagline": "The grounding blend",
+    "colour": "#8C7A5A",
+    "props": [
+      "Balanced",
+      "Grounded",
+      "Calm"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am perfectly balanced in mind, body and spirit.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "cedarwood"
+    ],
+    "emotions": [
+      "balance",
+      "grounding",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "serenity-blend",
+    "name": "dōTERRA Serenity",
+    "latin": "Restful Blend",
+    "family": "floral",
+    "size": "15ml",
+    "tagline": "The restful blend",
+    "colour": "#B4A8C8",
+    "props": [
+      "Peaceful",
+      "Restful",
+      "Serene"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I surrender fully to deep, restorative peace and serenity.",
+    "pairs": [
+      "lavender",
+      "roman-chamomile",
+      "vetiver"
+    ],
+    "emotions": [
+      "serenity",
+      "peace",
+      "surrender"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "elevation",
+    "name": "Elevation",
+    "latin": "Joyful Blend",
+    "family": "floral",
+    "size": "15ml",
+    "tagline": "The joyful blend",
+    "colour": "#F4B4A0",
+    "props": [
+      "Joyful",
+      "Uplifting",
+      "Inspired"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "My spirit soars with abundant joy and inspired creativity.",
+    "pairs": [
+      "wild-orange",
+      "bergamot",
+      "lavender"
+    ],
+    "emotions": [
+      "joy",
+      "inspiration",
+      "enthusiasm"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "motivate",
+    "name": "Motivate",
+    "latin": "Encouraging Blend",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The encouraging blend",
+    "colour": "#98C4A0",
+    "props": [
+      "Motivated",
+      "Courageous",
+      "Encouraged"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I move forward boldly with confidence and inspired purpose.",
+    "pairs": [
+      "peppermint",
+      "wild-orange",
+      "lemon"
+    ],
+    "emotions": [
+      "courage",
+      "confidence",
+      "enthusiasm"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "console",
+    "name": "Console",
+    "latin": "Comforting Blend",
+    "family": "floral",
+    "size": "5ml",
+    "tagline": "The comforting blend",
+    "colour": "#C4A0B4",
+    "props": [
+      "Comforted",
+      "Peaceful",
+      "Healed"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am held in comfort and the tender warmth of healing grace.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "rose"
+    ],
+    "emotions": [
+      "compassion",
+      "forgiveness",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "forgive",
+    "name": "Forgive",
+    "latin": "Renewing Blend",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The renewing blend",
+    "colour": "#A8C4A0",
+    "props": [
+      "Forgiving",
+      "Renewed",
+      "Released"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I release the past with grace and step into beautiful renewal.",
+    "pairs": [
+      "bergamot",
+      "frankincense",
+      "geranium"
+    ],
+    "emotions": [
+      "forgiveness",
+      "renewal",
+      "acceptance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "adaptiv",
+    "name": "Adaptiv",
+    "latin": "Calming Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The calming blend",
+    "colour": "#A4B8C4",
+    "props": [
+      "Adaptive",
+      "Calm",
+      "Resilient"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I flow with effortless grace through every change and challenge.",
+    "pairs": [
+      "lavender",
+      "balance",
+      "bergamot"
+    ],
+    "emotions": [
+      "serenity",
+      "surrender",
+      "acceptance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "citrus-bliss",
+    "name": "Citrus Bliss",
+    "latin": "Invigorating Blend",
+    "family": "citrus",
+    "size": "15ml",
+    "tagline": "The invigorating blend",
+    "colour": "#F4C870",
+    "props": [
+      "Blissful",
+      "Energised",
+      "Happy"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "Bliss and vibrant delight flow naturally through my entire day.",
+    "pairs": [
+      "wild-orange",
+      "elevation",
+      "peppermint"
+    ],
+    "emotions": [
+      "joy",
+      "enthusiasm",
+      "contentment"
+    ],
+    "safetyNote": "Photosensitive — avoid sun after topical use."
+  },
+  {
+    "id": "intune",
+    "name": "InTune",
+    "latin": "Focus Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The focus blend",
+    "colour": "#8CC4C0",
+    "props": [
+      "Focused",
+      "Present",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am fully present, focused and in beautiful harmonious flow.",
+    "pairs": [
+      "lemon",
+      "peppermint",
+      "frankincense"
+    ],
+    "emotions": [
+      "focus",
+      "clarity",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "aromatouch",
+    "name": "AromaTouch",
+    "latin": "Massage Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The massage blend",
+    "colour": "#A8B8C4",
+    "props": [
+      "Relaxed",
+      "Soothed",
+      "Connected"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I allow all tension to dissolve and deep relaxation to flow.",
+    "pairs": [
+      "balance",
+      "lavender",
+      "cedarwood"
+    ],
+    "emotions": [
+      "serenity",
+      "balance",
+      "grounding"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "passion",
+    "name": "Passion",
+    "latin": "Inspiring Blend",
+    "family": "spice",
+    "size": "5ml",
+    "tagline": "The inspiring blend",
+    "colour": "#E87860",
+    "props": [
+      "Passionate",
+      "Inspired",
+      "Creative"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I live with passionate purpose and inspired creative fire.",
+    "pairs": [
+      "ylang-ylang",
+      "wild-orange",
+      "jasmine-touch"
+    ],
+    "emotions": [
+      "enthusiasm",
+      "love",
+      "inspiration"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "peace-blend",
+    "name": "Peace",
+    "latin": "Reassuring Blend",
+    "family": "floral",
+    "size": "5ml",
+    "tagline": "The reassuring blend",
+    "colour": "#B0C4D0",
+    "props": [
+      "Peaceful",
+      "Reassured",
+      "Calm"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am enveloped in peace and everything is perfectly unfolding.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "roman-chamomile"
+    ],
+    "emotions": [
+      "peace",
+      "serenity",
+      "trust"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "on-guard",
+    "name": "On Guard",
+    "latin": "Protective Blend",
+    "family": "spice",
+    "size": "15ml",
+    "tagline": "The protective blend",
+    "colour": "#D4782C",
+    "props": [
+      "Protected",
+      "Strong",
+      "Supported"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am surrounded by protective love and radiant inner strength.",
+    "pairs": [
+      "wild-orange",
+      "clove",
+      "frankincense"
+    ],
+    "emotions": [
+      "courage",
+      "confidence",
+      "grounding"
+    ],
+    "safetyNote": "Dilute before topical use."
+  },
+  {
+    "id": "purify",
+    "name": "Purify",
+    "latin": "Cleansing Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The cleansing blend",
+    "colour": "#9CC8B8",
+    "props": [
+      "Purified",
+      "Clear",
+      "Fresh"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I cleanse my energy field and welcome fresh new beginnings.",
+    "pairs": [
+      "lemon",
+      "lavender",
+      "tea-tree"
+    ],
+    "emotions": [
+      "renewal",
+      "clarity",
+      "acceptance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "whisper",
+    "name": "Whisper Touch",
+    "latin": "Women's Blend",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The women's blend",
+    "colour": "#E4C0D4",
+    "props": [
+      "Feminine",
+      "Balanced",
+      "Alluring"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I embrace my full feminine power and grace with confidence.",
+    "pairs": [
+      "rose",
+      "ylang-ylang",
+      "sandalwood"
+    ],
+    "emotions": [
+      "love",
+      "confidence",
+      "balance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "clarycalm",
+    "name": "ClaryCalm",
+    "latin": "Monthly Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The monthly women's blend",
+    "colour": "#D4A8C4",
+    "props": [
+      "Balanced",
+      "Calm",
+      "Supported"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "My cycles flow with ease and my emotions are in perfect balance.",
+    "pairs": [
+      "lavender",
+      "clary-sage",
+      "geranium"
+    ],
+    "emotions": [
+      "balance",
+      "serenity",
+      "acceptance"
+    ],
+    "safetyNote": "Avoid during pregnancy."
+  },
+  {
+    "id": "deep-blue",
+    "name": "Deep Blue",
+    "latin": "Soothing Blend",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The soothing blend",
+    "colour": "#4478A8",
+    "props": [
+      "Soothed",
+      "Relieved",
+      "Comfortable"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release all tension and sink into beautiful physical ease.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "peppermint"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "balance"
+    ],
+    "safetyNote": "Do not use near eyes."
+  },
+  {
+    "id": "zendocrine",
+    "name": "Zendocrine",
+    "latin": "Detoxification Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The detoxification blend",
+    "colour": "#88A870",
+    "props": [
+      "Cleansed",
+      "Renewed",
+      "Detoxified"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I lovingly release what no longer serves my body and being.",
+    "pairs": [
+      "lemon",
+      "frankincense",
+      "patchouli"
+    ],
+    "emotions": [
+      "renewal",
+      "acceptance",
+      "surrender"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "zengest",
+    "name": "ZenGest",
+    "latin": "Digestive Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The digestive blend",
+    "colour": "#A0C890",
+    "props": [
+      "Grounded",
+      "Settled",
+      "At ease"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I digest life with ease and process all experiences with grace.",
+    "pairs": [
+      "ginger",
+      "peppermint",
+      "fennel"
+    ],
+    "emotions": [
+      "acceptance",
+      "serenity",
+      "balance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "align",
+    "name": "Align",
+    "latin": "Centering Blend",
+    "family": "herbal",
+    "size": "5ml",
+    "tagline": "The centering blend",
+    "colour": "#90B4A0",
+    "props": [
+      "Centred",
+      "Aligned",
+      "Balanced"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am divinely aligned with my highest path and purpose.",
+    "pairs": [
+      "frankincense",
+      "sandalwood",
+      "balance"
+    ],
+    "emotions": [
+      "balance",
+      "serenity",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "anchor",
+    "name": "Anchor",
+    "latin": "Steadying Blend",
+    "family": "earthy",
+    "size": "5ml",
+    "tagline": "The steadying blend",
+    "colour": "#6878A0",
+    "props": [
+      "Steady",
+      "Anchored",
+      "Stable"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am anchored, steady and unshakeable in any storm.",
+    "pairs": [
+      "vetiver",
+      "cedarwood",
+      "balance"
+    ],
+    "emotions": [
+      "grounding",
+      "serenity",
+      "courage"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "arise",
+    "name": "Arise",
+    "latin": "Empowering Blend",
+    "family": "floral",
+    "size": "5ml",
+    "tagline": "The empowering blend",
+    "colour": "#F4B8A8",
+    "props": [
+      "Empowered",
+      "Rising",
+      "Inspired"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I rise into my full magnificent power and inspired potential.",
+    "pairs": [
+      "elevation",
+      "motivate",
+      "wild-orange"
+    ],
+    "emotions": [
+      "empowerment",
+      "courage",
+      "inspiration"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "cheer",
+    "name": "Cheer",
+    "latin": "Uplifting Blend",
+    "family": "citrus",
+    "size": "5ml",
+    "tagline": "The uplifting blend",
+    "colour": "#F4C840",
+    "props": [
+      "Cheerful",
+      "Uplifted",
+      "Optimistic"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "Joy and cheer radiate outward from the very centre of my being.",
+    "pairs": [
+      "wild-orange",
+      "citrus-bliss",
+      "elevation"
+    ],
+    "emotions": [
+      "joy",
+      "hope",
+      "enthusiasm"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "ddr-prime",
+    "name": "DDR Prime",
+    "latin": "Cellular Complex Blend",
+    "family": "resin",
+    "size": "15ml",
+    "tagline": "The cellular complex blend",
+    "colour": "#4A7090",
+    "props": [
+      "Renewed",
+      "Vital",
+      "Restored"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "My body and spirit renew themselves with every breath I take.",
+    "pairs": [
+      "frankincense",
+      "copaiba",
+      "sandalwood"
+    ],
+    "emotions": [
+      "renewal",
+      "hope",
+      "balance"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "supermint",
+    "name": "Supermint",
+    "latin": "Peppermint & Spearmint Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of bold, clear energy",
+    "colour": "#60D0B0",
+    "props": [
+      "Clear",
+      "Energised",
+      "Bold"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic",
+      "Internal"
+    ],
+    "affirmation": "I am bold, clear and fully alive with vibrant energy.",
+    "pairs": [
+      "peppermint",
+      "lemon",
+      "wild-orange"
+    ],
+    "emotions": [
+      "clarity",
+      "enthusiasm",
+      "focus"
+    ],
+    "safetyNote": "Keep away from eyes. Dilute for sensitive skin."
+  },
+  {
+    "id": "abode",
+    "name": "dōTERRA Abode",
+    "latin": "Cleansing Home Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The home cleansing blend",
+    "colour": "#C0D8C0",
+    "props": [
+      "Fresh",
+      "Cleansed",
+      "Uplifted"
+    ],
+    "apps": [
+      "Aromatic"
+    ],
+    "affirmation": "I create a space of peace, purity and loving presence.",
+    "pairs": [
+      "purify",
+      "lemon",
+      "tea-tree"
+    ],
+    "emotions": [
+      "renewal",
+      "serenity",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "terrashield",
+    "name": "TerraShield",
+    "latin": "Outdoor Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The outdoor protection blend",
+    "colour": "#A0C088",
+    "props": [
+      "Protected",
+      "Grounded",
+      "Outdoors"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I move through the world feeling safe, protected and at ease.",
+    "pairs": [
+      "lavender",
+      "eucalyptus",
+      "cedarwood"
+    ],
+    "emotions": [
+      "grounding",
+      "safety",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "steady",
+    "name": "Steady",
+    "latin": "Steadying Blend",
+    "family": "earthy",
+    "size": "10ml",
+    "tagline": "The steadying blend",
+    "colour": "#90A878",
+    "props": [
+      "Steady",
+      "Calm",
+      "Safe"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am steady, calm and completely safe in this moment.",
+    "pairs": [
+      "balance",
+      "lavender",
+      "cedarwood"
+    ],
+    "emotions": [
+      "serenity",
+      "safety",
+      "grounding"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "calmer",
+    "name": "Calmer",
+    "latin": "Restful Blend",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The restful calming blend",
+    "colour": "#C0B8D8",
+    "props": [
+      "Calm",
+      "Restful",
+      "Soothed"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I rest deeply and wake refreshed, renewed and ready.",
+    "pairs": [
+      "serenity-blend",
+      "lavender",
+      "roman-chamomile"
+    ],
+    "emotions": [
+      "serenity",
+      "peace",
+      "surrender"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "thinker",
+    "name": "Thinker",
+    "latin": "Focus Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The focus blend",
+    "colour": "#8CC8C0",
+    "props": [
+      "Focused",
+      "Alert",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "My mind is sharp, curious and fully engaged with life.",
+    "pairs": [
+      "intune",
+      "lemon",
+      "peppermint"
+    ],
+    "emotions": [
+      "focus",
+      "clarity",
+      "openness"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "brave",
+    "name": "Brave",
+    "latin": "Courage Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The courage blend",
+    "colour": "#98C4A0",
+    "props": [
+      "Brave",
+      "Confident",
+      "Strong"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am brave and face every challenge with confidence and strength.",
+    "pairs": [
+      "motivate",
+      "wild-orange",
+      "frankincense"
+    ],
+    "emotions": [
+      "courage",
+      "confidence",
+      "empowerment"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "stronger",
+    "name": "Stronger",
+    "latin": "Immunity Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The immunity blend",
+    "colour": "#D4A040",
+    "props": [
+      "Strong",
+      "Supported",
+      "Resilient"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am strong, supported and resilient in every season of life.",
+    "pairs": [
+      "on-guard",
+      "frankincense",
+      "lavender"
+    ],
+    "emotions": [
+      "resilience",
+      "courage",
+      "safety"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "shinrin-yoku",
+    "name": "Shinrin-Yoku",
+    "latin": "Forest Bathing Blend",
+    "family": "wood",
+    "size": "15ml",
+    "tagline": "The forest bathing blend",
+    "colour": "#607858",
+    "props": [
+      "Grounded",
+      "Peaceful",
+      "Renewed"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I breathe in the peace of nature and let it restore my soul.",
+    "pairs": [
+      "cedarwood",
+      "siberian-fir",
+      "vetiver"
+    ],
+    "emotions": [
+      "peace",
+      "grounding",
+      "renewal"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "air",
+    "name": "dōTERRA Air",
+    "latin": "Respiratory Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The respiratory blend",
+    "colour": "#80C8C8",
+    "props": [
+      "Open",
+      "Breathing",
+      "Clear"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I breathe fully and freely. My airways are open and clear.",
+    "pairs": [
+      "eucalyptus",
+      "peppermint",
+      "lavender"
+    ],
+    "emotions": [
+      "clarity",
+      "renewal",
+      "serenity"
+    ],
+    "safetyNote": "Keep away from face of young children."
+  },
+  {
+    "id": "rescuer",
+    "name": "Rescuer",
+    "latin": "Soothing Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The soothing tension blend",
+    "colour": "#8EB8D0",
+    "props": [
+      "Soothed",
+      "Eased",
+      "Relieved"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release all physical tension and melt into ease.",
+    "pairs": [
+      "deep-blue",
+      "lavender",
+      "frankincense"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "tamer",
+    "name": "Tamer",
+    "latin": "Digestive Comfort Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The digestive comfort blend",
+    "colour": "#A8C8A0",
+    "props": [
+      "Settled",
+      "Eased",
+      "Comforted"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am settled and at ease. All is calm within me.",
+    "pairs": [
+      "zengest",
+      "ginger",
+      "peppermint"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "contentment"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "passtense",
+    "name": "PastTense Touch",
+    "latin": "Tension Relief Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The tension relief blend",
+    "colour": "#A0B4C8",
+    "props": [
+      "Relieved",
+      "Clear",
+      "Eased"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release tension and return to a state of fluid, easy grace.",
+    "pairs": [
+      "lavender",
+      "peppermint",
+      "frankincense"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "renewal"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "frankincense-touch",
+    "name": "Frankincense Touch",
+    "latin": "Boswellia carterii",
+    "family": "resin",
+    "size": "10ml",
+    "tagline": "The oil of truth & spiritual awakening (Touch)",
+    "colour": "#C8B87A",
+    "props": [
+      "Grounding",
+      "Enlightening",
+      "Protective"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am connected to the divine truth within me.",
+    "pairs": [
+      "lavender",
+      "sandalwood",
+      "myrrh"
+    ],
+    "emotions": [
+      "truth",
+      "awakening",
+      "protection"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "lavender-touch",
+    "name": "Lavender Touch",
+    "latin": "Lavandula angustifolia",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of communication & calm (Touch)",
+    "colour": "#C8A8D8",
+    "props": [
+      "Calming",
+      "Nurturing",
+      "Communicative"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I speak my truth with calm clarity and open-hearted grace.",
+    "pairs": [
+      "frankincense",
+      "cedarwood",
+      "bergamot"
+    ],
+    "emotions": [
+      "calm",
+      "communication",
+      "nurturing"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "copaiba-touch",
+    "name": "Copaiba Touch",
+    "latin": "Copaifera officinalis",
+    "family": "resin",
+    "size": "10ml",
+    "tagline": "The oil of unveiling truth (Touch)",
+    "colour": "#C4B890",
+    "props": [
+      "Honest",
+      "Clear",
+      "Receptive"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I embrace truth and allow my authentic self to fully shine.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "sandalwood"
+    ],
+    "emotions": [
+      "clarity",
+      "openness",
+      "trust"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "helichrysum-touch",
+    "name": "Helichrysum Touch",
+    "latin": "Helichrysum italicum",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of pain & feeling (Touch)",
+    "colour": "#F0C830",
+    "props": [
+      "Healing",
+      "Resilient",
+      "Releasing"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I heal gracefully and emerge stronger and wiser.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "rose"
+    ],
+    "emotions": [
+      "healing",
+      "resilience",
+      "release"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "myrrh-touch",
+    "name": "Myrrh Touch",
+    "latin": "Commiphora myrrha",
+    "family": "resin",
+    "size": "10ml",
+    "tagline": "The oil of mother earth (Touch)",
+    "colour": "#A87840",
+    "props": [
+      "Nurturing",
+      "Grounding",
+      "Safe"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am safe, nurtured and deeply rooted in the earth.",
+    "pairs": [
+      "frankincense",
+      "sandalwood",
+      "lavender"
+    ],
+    "emotions": [
+      "safety",
+      "nurturing",
+      "grounding"
+    ],
+    "safetyNote": "Avoid during pregnancy. Diluted for sensitive skin."
+  },
+  {
+    "id": "rose-touch",
+    "name": "Rose Touch",
+    "latin": "Rosa damascena",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The oil of divine love (Touch)",
+    "colour": "#F0A0B0",
+    "props": [
+      "Loving",
+      "Worthy",
+      "Open-hearted"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am worthy of deep love and I open my heart to receive it fully.",
+    "pairs": [
+      "jasmine-touch",
+      "ylang-ylang",
+      "sandalwood"
+    ],
+    "emotions": [
+      "love",
+      "worthiness",
+      "openness"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "peppermint-touch",
+    "name": "Peppermint Touch",
+    "latin": "Mentha piperita",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The oil of a buoyant heart (Touch)",
+    "colour": "#80D0A8",
+    "props": [
+      "Invigorating",
+      "Encouraging",
+      "Uplifting"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I feel alive, energised and enthusiastic about life.",
+    "pairs": [
+      "wild-orange",
+      "lemon",
+      "eucalyptus"
+    ],
+    "emotions": [
+      "invigoration",
+      "encouragement",
+      "uplift"
+    ],
+    "safetyNote": "Diluted. Keep away from face of young children."
+  },
+  {
+    "id": "oregano-touch",
+    "name": "Oregano Touch",
+    "latin": "Origanum vulgare",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The oil of humility & non-attachment (Touch)",
+    "colour": "#90A868",
+    "props": [
+      "Humble",
+      "Flexible",
+      "Strong"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release rigid beliefs and welcome new wisdom with humility.",
+    "pairs": [
+      "thyme",
+      "basil",
+      "lemon"
+    ],
+    "emotions": [
+      "humility",
+      "flexibility",
+      "strength"
+    ],
+    "safetyNote": "Diluted. Avoid during pregnancy."
+  },
+  {
+    "id": "tea-tree-touch",
+    "name": "Tea Tree Touch",
+    "latin": "Melaleuca alternifolia",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The oil of energetic boundaries (Touch)",
+    "colour": "#B8D8A8",
+    "props": [
+      "Protective",
+      "Cleansing",
+      "Boundaried"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I maintain healthy boundaries and protect my energy with ease.",
+    "pairs": [
+      "lavender",
+      "eucalyptus",
+      "lemon"
+    ],
+    "emotions": [
+      "protection",
+      "cleansing",
+      "boundaries"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "celery-seed",
+    "name": "Celery Seed",
+    "latin": "Apium graveolens",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The oil of detoxification & renewal",
+    "colour": "#A8C870",
+    "props": [
+      "Purifying",
+      "Renewing",
+      "Clarifying"
+    ],
+    "apps": [
+      "Aromatic",
+      "Internal",
+      "Topical"
+    ],
+    "affirmation": "I release what no longer serves me and welcome renewal.",
+    "pairs": [
+      "lemon",
+      "grapefruit",
+      "cilantro"
+    ],
+    "emotions": [
+      "renewal",
+      "clarity",
+      "release"
+    ],
+    "safetyNote": "Avoid during pregnancy. Consult healthcare provider before internal use."
+  },
+  {
+    "id": "madagascar-vanilla",
+    "name": "Madagascar Vanilla",
+    "latin": "Vanilla planifolia",
+    "family": "resin",
+    "size": "5ml",
+    "tagline": "The oil of comfort & sensuality",
+    "colour": "#C8A060",
+    "props": [
+      "Comforting",
+      "Warm",
+      "Grounding"
+    ],
+    "apps": [
+      "Aromatic",
+      "Topical"
+    ],
+    "affirmation": "I am safe, warm and deeply comforted by life's sweetness.",
+    "pairs": [
+      "sandalwood",
+      "ylang-ylang",
+      "jasmine-touch"
+    ],
+    "emotions": [
+      "comfort",
+      "warmth",
+      "sensuality"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "sandalwood-hawaiian",
+    "name": "Sandalwood (Hawaiian)",
+    "latin": "Santalum paniculatum",
+    "family": "woody",
+    "size": "5ml",
+    "tagline": "The oil of sacred devotion",
+    "colour": "#D4A878",
+    "props": [
+      "Devoted",
+      "Sacred",
+      "Present"
+    ],
+    "apps": [
+      "Aromatic",
+      "Topical"
+    ],
+    "affirmation": "I connect to the sacred in every moment and in all things.",
+    "pairs": [
+      "frankincense",
+      "rose",
+      "ylang-ylang"
+    ],
+    "emotions": [
+      "devotion",
+      "presence",
+      "sacredness"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "yarrow-pom",
+    "name": "Yarrow Pom",
+    "latin": "Achillea millefolium & Punica granatum",
+    "family": "floral",
+    "size": "30ml",
+    "tagline": "The oil of balancing feminine energy",
+    "colour": "#C8789A",
+    "props": [
+      "Balancing",
+      "Feminine",
+      "Harmonising"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I honour the full spectrum of my nature and live in beautiful balance.",
+    "pairs": [
+      "geranium",
+      "clary-sage",
+      "rose"
+    ],
+    "emotions": [
+      "balance",
+      "harmony",
+      "femininity"
+    ],
+    "safetyNote": "Consult healthcare provider during pregnancy."
+  },
+  {
+    "id": "adaptiv-touch",
+    "name": "Adaptiv Touch",
+    "latin": "Calming Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The calming blend (Touch)",
+    "colour": "#98B8C8",
+    "props": [
+      "Calm",
+      "Adaptable",
+      "Centred"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I adapt to life's changes with grace and inner calm.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "vetiver"
+    ],
+    "emotions": [
+      "calm",
+      "adaptability",
+      "centredness"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "air-touch",
+    "name": "Air Touch",
+    "latin": "Respiratory Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The respiratory blend (Touch)",
+    "colour": "#80C8C8",
+    "props": [
+      "Open",
+      "Breathing",
+      "Clear"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I breathe fully and freely with open and clear airways.",
+    "pairs": [
+      "eucalyptus",
+      "peppermint",
+      "lavender"
+    ],
+    "emotions": [
+      "clarity",
+      "renewal",
+      "serenity"
+    ],
+    "safetyNote": "Keep away from face of young children. Diluted."
+  },
+  {
+    "id": "air-x",
+    "name": "Air-X",
+    "latin": "Respiratory Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The advanced respiratory blend",
+    "colour": "#60B8C0",
+    "props": [
+      "Open",
+      "Expansive",
+      "Breathing"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "Every breath fills me with fresh clarity and ease.",
+    "pairs": [
+      "eucalyptus",
+      "peppermint",
+      "air"
+    ],
+    "emotions": [
+      "clarity",
+      "openness",
+      "ease"
+    ],
+    "safetyNote": "Keep away from face of young children."
+  },
+  {
+    "id": "balance",
+    "name": "dōTERRA Balance",
+    "latin": "Grounding Blend",
+    "family": "woody",
+    "size": "15ml",
+    "tagline": "The grounding blend",
+    "colour": "#708058",
+    "props": [
+      "Grounded",
+      "Stable",
+      "Serene"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I am rooted, stable and completely at peace with where I am.",
+    "pairs": [
+      "frankincense",
+      "vetiver",
+      "cedarwood"
+    ],
+    "emotions": [
+      "grounding",
+      "stability",
+      "serenity"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "balance-touch",
+    "name": "Balance Touch",
+    "latin": "Grounding Blend",
+    "family": "woody",
+    "size": "10ml",
+    "tagline": "The grounding blend (Touch)",
+    "colour": "#708058",
+    "props": [
+      "Grounded",
+      "Stable",
+      "Serene"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am rooted, stable and completely at peace with where I am.",
+    "pairs": [
+      "frankincense",
+      "vetiver",
+      "cedarwood"
+    ],
+    "emotions": [
+      "grounding",
+      "stability",
+      "serenity"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "cheer-touch",
+    "name": "Cheer Touch",
+    "latin": "Uplifting Blend",
+    "family": "citrus",
+    "size": "10ml",
+    "tagline": "The uplifting blend (Touch)",
+    "colour": "#F0C040",
+    "props": [
+      "Cheerful",
+      "Optimistic",
+      "Bright"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I choose joy and I radiate warmth and happiness to all around me.",
+    "pairs": [
+      "wild-orange",
+      "lemon",
+      "elevation"
+    ],
+    "emotions": [
+      "joy",
+      "optimism",
+      "cheerfulness"
+    ],
+    "safetyNote": "Diluted. May cause photosensitivity."
+  },
+  {
+    "id": "console-touch",
+    "name": "Console Touch",
+    "latin": "Comforting Blend",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The comforting blend (Touch)",
+    "colour": "#B888C0",
+    "props": [
+      "Comforted",
+      "Hopeful",
+      "Restored"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am held and comforted. Grief transforms into gentle peace.",
+    "pairs": [
+      "frankincense",
+      "rose",
+      "ylang-ylang"
+    ],
+    "emotions": [
+      "comfort",
+      "hope",
+      "restoration"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "deep-blue-roll-on",
+    "name": "Deep Blue Roll-On",
+    "latin": "Soothing Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The soothing blend (Roll-On)",
+    "colour": "#4478A8",
+    "props": [
+      "Soothed",
+      "Relieved",
+      "Comfortable"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release all tension and sink into beautiful physical ease.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "peppermint"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "balance"
+    ],
+    "safetyNote": "Do not use near eyes."
+  },
+  {
+    "id": "deep-blue-touch",
+    "name": "Deep Blue Touch",
+    "latin": "Soothing Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The soothing blend (Touch)",
+    "colour": "#4478A8",
+    "props": [
+      "Soothed",
+      "Relieved",
+      "Comfortable"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release all tension and sink into beautiful physical ease.",
+    "pairs": [
+      "lavender",
+      "frankincense",
+      "peppermint"
+    ],
+    "emotions": [
+      "serenity",
+      "acceptance",
+      "balance"
+    ],
+    "safetyNote": "Diluted. Do not use near eyes."
+  },
+  {
+    "id": "forgive-touch",
+    "name": "Forgive Touch",
+    "latin": "Renewing Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The renewing blend (Touch)",
+    "colour": "#90C888",
+    "props": [
+      "Forgiving",
+      "Renewed",
+      "Free"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I release resentment and embrace the freedom of forgiveness.",
+    "pairs": [
+      "frankincense",
+      "lavender",
+      "bergamot"
+    ],
+    "emotions": [
+      "forgiveness",
+      "renewal",
+      "freedom"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "hd-clear-roll-on",
+    "name": "HD Clear Roll-On",
+    "latin": "Topical Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The clear skin blend",
+    "colour": "#B8D0A8",
+    "props": [
+      "Clear",
+      "Clean",
+      "Confident"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "My skin reflects my inner radiance and I feel confident in my body.",
+    "pairs": [
+      "lavender",
+      "tea-tree-touch",
+      "lemon"
+    ],
+    "emotions": [
+      "confidence",
+      "clarity",
+      "self-acceptance"
+    ],
+    "safetyNote": "For external use only. Avoid eyes."
+  },
+  {
+    "id": "hope-touch",
+    "name": "Hope Touch",
+    "latin": "Inspiring Blend",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The inspiring blend (Touch)",
+    "colour": "#F0A8C0",
+    "props": [
+      "Hopeful",
+      "Inspired",
+      "Uplifted"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I carry hope in my heart and trust in the beauty of what is coming.",
+    "pairs": [
+      "frankincense",
+      "rose",
+      "console"
+    ],
+    "emotions": [
+      "hope",
+      "inspiration",
+      "uplift"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "intune-roll-on",
+    "name": "InTune Roll-On",
+    "latin": "Focus Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The focus blend",
+    "colour": "#6898C8",
+    "props": [
+      "Focused",
+      "Clear",
+      "Present"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "My mind is clear, focused and fully present in this moment.",
+    "pairs": [
+      "peppermint",
+      "frankincense",
+      "vetiver"
+    ],
+    "emotions": [
+      "focus",
+      "clarity",
+      "presence"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "motivate-touch",
+    "name": "Motivate Touch",
+    "latin": "Encouraging Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The encouraging blend (Touch)",
+    "colour": "#88C870",
+    "props": [
+      "Motivated",
+      "Courageous",
+      "Driven"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am energised, motivated and capable of achieving anything I set my mind to.",
+    "pairs": [
+      "wild-orange",
+      "peppermint",
+      "elevation"
+    ],
+    "emotions": [
+      "motivation",
+      "courage",
+      "drive"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "passion-touch",
+    "name": "Passion Touch",
+    "latin": "Inspiring Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The inspiring blend (Touch)",
+    "colour": "#E87858",
+    "props": [
+      "Passionate",
+      "Inspired",
+      "Alive"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I live with passion and purpose, fully alive to what moves me.",
+    "pairs": [
+      "ylang-ylang",
+      "jasmine-touch",
+      "sandalwood"
+    ],
+    "emotions": [
+      "passion",
+      "inspiration",
+      "aliveness"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "peace-touch",
+    "name": "Peace Touch",
+    "latin": "Reassuring Blend",
+    "family": "herbal",
+    "size": "10ml",
+    "tagline": "The reassuring blend (Touch)",
+    "colour": "#A8C8D8",
+    "props": [
+      "Peaceful",
+      "Reassured",
+      "Centred"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I am at peace with myself and trust the unfolding of my life.",
+    "pairs": [
+      "lavender",
+      "vetiver",
+      "frankincense"
+    ],
+    "emotions": [
+      "peace",
+      "reassurance",
+      "centredness"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "salubelle",
+    "name": "dōTERRA Salubelle",
+    "latin": "Anti-Ageing Blend",
+    "family": "floral",
+    "size": "10ml",
+    "tagline": "The anti-ageing blend",
+    "colour": "#E8C8B0",
+    "props": [
+      "Radiant",
+      "Youthful",
+      "Restored"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I honour my skin as a reflection of my inner vitality and radiance.",
+    "pairs": [
+      "frankincense",
+      "rose",
+      "helichrysum"
+    ],
+    "emotions": [
+      "radiance",
+      "vitality",
+      "self-care"
+    ],
+    "safetyNote": "For external use only. Avoid eyes."
+  },
+  {
+    "id": "serenity",
+    "name": "dōTERRA Serenity",
+    "latin": "Restful Blend",
+    "family": "herbal",
+    "size": "15ml",
+    "tagline": "The restful blend",
+    "colour": "#9898C8",
+    "props": [
+      "Restful",
+      "Serene",
+      "Peaceful"
+    ],
+    "apps": [
+      "Topical",
+      "Aromatic"
+    ],
+    "affirmation": "I release the day with ease and surrender into deep, restful peace.",
+    "pairs": [
+      "lavender",
+      "vetiver",
+      "cedarwood"
+    ],
+    "emotions": [
+      "serenity",
+      "rest",
+      "peace"
+    ],
+    "safetyNote": null
+  },
+  {
+    "id": "shinrin-yoku-touch",
+    "name": "Shinrin-Yoku Touch",
+    "latin": "Forest Blend",
+    "family": "woody",
+    "size": "10ml",
+    "tagline": "The forest bathing blend (Touch)",
+    "colour": "#6A9A70",
+    "props": [
+      "Grounded",
+      "Connected",
+      "Restored"
+    ],
+    "apps": [
+      "Topical"
+    ],
+    "affirmation": "I reconnect with nature and feel restored by the living world around me.",
+    "pairs": [
+      "cedarwood",
+      "siberian-fir",
+      "vetiver"
+    ],
+    "emotions": [
+      "connection",
+      "restoration",
+      "grounding"
+    ],
+    "safetyNote": "Diluted for sensitive skin."
+  },
+  {
+    "id": "triease",
+    "name": "TriEase",
+    "latin": "Seasonal Blend Softgels",
+    "family": "herbal",
+    "size": "60 softgels",
+    "tagline": "The seasonal comfort blend",
+    "colour": "#C8D870",
+    "props": [
+      "Comfortable",
+      "Seasonal",
+      "Supported"
+    ],
+    "apps": [
+      "Internal"
+    ],
+    "affirmation": "I move through every season with ease and comfortable vitality.",
+    "pairs": [
+      "lavender",
+      "lemon",
+      "peppermint"
+    ],
+    "emotions": [
+      "comfort",
+      "ease",
+      "support"
+    ],
+    "safetyNote": "Consult healthcare provider before use."
+  }
+]
